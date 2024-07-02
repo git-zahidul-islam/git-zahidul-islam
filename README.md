@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zahidul Islam</h1>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=git-zahidul-islam&theme=default)](https://git.io/streak-stats)
+
 <h3 align="center">Frontend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=git-zahidul-islam&label=Profile%20views&color=0e75b6&style=flat" alt="git-zahidul-islam" /> </p>
