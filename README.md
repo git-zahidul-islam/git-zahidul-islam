@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Zahidul Islam</h1>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=git-zahidul-islam&theme=default)](https://git.io/streak-stats)
-
-<h3 align="center">Frontend Developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=git-zahidul-islam&label=Profile%20views&color=0e75b6&style=flat" alt="git-zahidul-islam" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=git-zahidul-islam" alt="git-zahidul-islam" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=git-zahidul-islam" alt="git-zahidul-islam" /></a> </p>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=git-zahidul-islam&theme=default" alt="GitHub Streak">
+  </a>
+</p>
 
 - 🔭 I’m currently working on [Blood Found](https://github.com/programming-hero-web-course1/b9a12-client-side-git-zahidul-islam)
 
