@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on [My Protfolio](https://zahidul-islam-portfolio.vercel.app/)
 
-- 🌱 I’m currently learning **Next.js, GSAP,**
+- 🌱 I’m currently learning ** Python, Django**
 
 - 💬 Ask me about **React.js, Express.js**
 
