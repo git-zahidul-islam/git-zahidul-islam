@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://i.ibb.co/bRQmRsz/Black-Modern-Personal-Linked-In-Banner.jpg)
+![I am GitHub Readme Generator's creator](https://i.postimg.cc/8CHbGHwj/Black-Modern-Personal-Linked-In-Banner.png)
 
 <h2>About me</h2>
 <p>I am zahidul Islam, a frontend developer proficient in JavaScript, React, Express, and Node.js. I have extensive experience with MongoDB for database management and use Tailwind CSS and Bootstrap for responsive, modern designs. My expertise ensures efficient, user-friendly web applications.</p>
