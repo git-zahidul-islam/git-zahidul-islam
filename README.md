@@ -41,7 +41,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/zahidul_islam_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/zahidul_islam_dev" height="30" width="40" /></a>
+<a href="https://dev.to/zahidul_islam_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/zahidul_islam_dev" height="30" width="40" /></a>
 <a href="https://twitter.com/zahidulislampro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zahidulislampro" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/zahidul-islam-dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zahidul-islam-dev/" height="30" width="40" /></a>
 <a href="https://discord.gg/zahidul_islam9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zahidul_islam9" height="30" width="40" /></a>
